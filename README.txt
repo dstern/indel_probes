@@ -66,6 +66,3 @@ OPTIONS
 -i --input (default = "alignments") #Name of input folder name
 -0 --output (default = "probes.txt")
 -m --map.txt_file (default = "map.txt")
--min --min_indel (default = 10) #Minimum length of insertion/deletion events
--max --max_indel (default = 100) #Maximum length of insertion/deletion events
--GC --minGCcontect (default = 35%)
